@@ -1,0 +1,10 @@
+diff a/Cholesterol.m b/Cholesterol.m	(rejected hunks)
+@@ -1,7 +1,7 @@
+ function varargout = Cholesterol(varargin)
+ % CHOLESTEROL M-file for Cholesterol.fig
+ %      CHOLESTEROL, by itself, creates a new CHOLESTEROL or raises the existing
+-%      singleton*.
++%      singleton*.a
+ %
+ %      H = CHOLESTEROL returns the handle to a new CHOLESTEROL or the handle to
+ %      the existing singleton*.
